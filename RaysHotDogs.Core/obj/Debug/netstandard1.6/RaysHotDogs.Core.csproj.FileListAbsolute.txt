@@ -1,9 +1,0 @@
-C:\Users\mkung\projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\netstandard1.6\RaysHotDogs.Core.deps.json
-C:\Users\mkung\projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\netstandard1.6\RaysHotDogs.Core.dll
-C:\Users\mkung\projects\RaysHotDogs\RaysHotDogs.Core\bin\Debug\netstandard1.6\RaysHotDogs.Core.pdb
-C:\Users\mkung\projects\RaysHotDogs\RaysHotDogs.Core\obj\Debug\netstandard1.6\RaysHotDogs.Core.csprojResolveAssemblyReference.cache
-C:\Users\mkung\projects\RaysHotDogs\RaysHotDogs.Core\obj\Debug\netstandard1.6\RaysHotDogs.Core.csproj.CoreCompileInputs.cache
-C:\Users\mkung\projects\RaysHotDogs\RaysHotDogs.Core\obj\Debug\netstandard1.6\RaysHotDogs.Core.AssemblyInfoInputs.cache
-C:\Users\mkung\projects\RaysHotDogs\RaysHotDogs.Core\obj\Debug\netstandard1.6\RaysHotDogs.Core.AssemblyInfo.cs
-C:\Users\mkung\projects\RaysHotDogs\RaysHotDogs.Core\obj\Debug\netstandard1.6\RaysHotDogs.Core.dll
-C:\Users\mkung\projects\RaysHotDogs\RaysHotDogs.Core\obj\Debug\netstandard1.6\RaysHotDogs.Core.pdb
