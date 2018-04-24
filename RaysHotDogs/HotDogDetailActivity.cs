@@ -28,7 +28,6 @@ namespace RaysHotDogs
         private Button orderButton;
 
         private HotDog selectedHotDog;
-        private HotDogDataService dataService;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
