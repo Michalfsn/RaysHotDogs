@@ -74,7 +74,10 @@ namespace RaysHotDogs
 
         private void CancelButton_Click(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            var dialog = new AlertDialog.Builder(this);
+            dialog.SetTitle("Cancel");
+            dialog.SetMessage("Your hot dog order has been canceled");
+            dialog.Show();
         }
 
         private void OrderButton_Click(object sender, EventArgs e)
